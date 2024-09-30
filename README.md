@@ -16,7 +16,7 @@
     - [Visual Studio Code](https://code.visualstudio.com/download)
   
 ## 2. HTML (HyperText Markup Language)
-- [Pengenalan HTML](#21-pengenalan-html)
+- [Pengenalan HTML](https://github.com/Pemrograman-Berbasis-Web/modul-pbw.github.io/blob/main/2-HTML/modul-html.md) 🔥
 
 ## 3. CSS (Cascading Style Sheets)
 - [Pengenalan CSS](#31-pengenalan-css)
