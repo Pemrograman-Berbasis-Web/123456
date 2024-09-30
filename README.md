@@ -2,7 +2,7 @@
 
 # Daftar Isi
 
-## 1.1 Tools Pendukung
+## 1. Tools Pendukung
 - [Version Control dengan Git](#71-version-control-dengan-git)
   - [Git](https://git-scm.com/downloads)
 - [Development Tools](https://www.apachefriends.org/)
