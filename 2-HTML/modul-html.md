@@ -1,10 +1,10 @@
-# MODUL 3 **HTML**
+# MODUL 2 **HTML**
 
 ![html5](https://wallpaperaccess.com/full/9147315.png)
 
 ## Daftar Isi
 
-- [MODUL 3 **HTML**](#modul-3-html)
+- [MODUL 2 **HTML**](#modul-2-html)
   - [Daftar Isi](#daftar-isi)
   - [Apa Itu HTML ?](#apa-itu-html-)
 - [Element](#element)
