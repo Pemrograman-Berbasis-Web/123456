@@ -61,8 +61,6 @@
 
 # Tujuan Pembelajaran
 
----------
-
 **Setelah praktikum ini dilakukan Anda diharapkan dapat:**
 
 1. **Memahami Konsep Dasar**
@@ -90,8 +88,6 @@
    - Menulis kode CSS yang bersih, terstruktur, dan sesuai dengan standar industri, meningkatkan kolaborasi dalam proyek pengembangan web.
 
 # Tentang Modul
-
-----
 
 Dengan bekal dari modul ini diharapkan teman - teman semuanya memahami dasar - dasar CSS itu sendiri dalam pengembangan sebuah aplikasi berbasis website.
 
