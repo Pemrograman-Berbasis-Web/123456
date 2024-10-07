@@ -33,6 +33,8 @@
 
 # Tujuan Pembelajaran
 
+Setelah praktikum ini dilakukan Anda diharapkan dapat:
+
 1. Memahami Peran dan Fungsi HTML dalam Pengembangan Web:
    
    - Mampu menjelaskan konsep dasar HTML sebagai bahasa markup dan perannya dalam membangun struktur dasar dari sebuah situs web.
