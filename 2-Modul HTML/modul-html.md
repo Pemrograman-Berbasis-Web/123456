@@ -1,11 +1,7 @@
-# MODUL 2 **HTML**
-
 ![html5](https://wallpaperaccess.com/full/9147315.png)
 
 ## Daftar Isi
 
-- [MODUL 2 **HTML**](#modul-2-html)
-  - [Daftar Isi](#daftar-isi)
 - [Tujuan Pembelajaran](#tujuan-pembelajaran)
   - [Apa Itu HTML ?](#apa-itu-html-)
 - [Element](#element)
