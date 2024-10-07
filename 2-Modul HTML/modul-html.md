@@ -6,6 +6,7 @@
 
 - [MODUL 2 **HTML**](#modul-2-html)
   - [Daftar Isi](#daftar-isi)
+- [Tujuan Pembelajaran](#tujuan-pembelajaran)
   - [Apa Itu HTML ?](#apa-itu-html-)
 - [Element](#element)
 - [Attribute](#attribute)
@@ -29,6 +30,35 @@
     - [Penjelasan Kode](#penjelasan-kode)
     - [Kesimpulan](#kesimpulan)
   - [Referensi](#referensi)
+
+# Tujuan Pembelajaran
+
+1. Memahami Peran dan Fungsi HTML dalam Pengembangan Web:
+   
+   - Mampu menjelaskan konsep dasar HTML sebagai bahasa markup dan perannya dalam membangun struktur dasar dari sebuah situs web.
+   - Mampu mengidentifikasi hubungan antara HTML, CSS, dan JavaScript dalam pengembangan web secara holistik.
+  
+2. Menganalisis Struktur Dokumen HTML:
+
+   - Memahami elemen-elemen penting dalam HTML, termasuk `<html>`, `<head>`,` <body>`,`<title>`, serta elemen struktur lainnya.
+  
+3. Menggunakan Tag-Tag HTML Umum untuk Membangun Halaman
+Web Dinamis:
+
+   - Mampu menggunakan tag HTML dasar
+   - Dapat membuat halaman web yang fungsional dengan menyertakan elemen-elemen multimedia dan interaktif.
+
+4. Membangun Struktur Web yang Semantik dan Valid Secara
+Teknikal:
+
+   - Dapat menulis kode HTML dengan mengikuti standar web modern, termasuk menggunakan elemen semantik yang sesuai.
+   - Memahami cara melakukan validasi HTML menggunakan alat seperti W3C Validator untuk memastikan kode bebas dari error sintaks.
+
+5. Membuat Halaman Web yang Terstruktur dengan Baik untuk
+Presentasi dan Publikasi:
+
+   - Mampu menyusun proyek web sederhana berbasis HTML untuk di-hosting di server, baik lokal maupun online, sebagai bagian dari proyek atau presentasi.
+   - Memahami cara mengatur dokumen HTML agar dapat digunakan dalam kerangka kerja pengembangan web modern (seperti Bootstrap atau integrasi dengan JavaScript dan CSS).
 
 ## Apa Itu HTML ?
 
