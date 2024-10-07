@@ -1,13 +1,10 @@
 ![Cover](https://rehansaeed.com/images/hero/CSS-1600x900.png)
 
-# Daftar Isi
+## Daftar Isi
 
-- [Daftar Isi](#daftar-isi)
 - [Tujuan Pembelajaran](#tujuan-pembelajaran)
-- [Tentang Modul](#tentang-modul)
-- [Pengenalan CSS](#pengenalan-css)
-  - [Apa itu Css ?](#apa-itu-css-)
-- [Syntax](#syntax)
+- [Apa itu CSS ?](#apa-itu-css-)
+  - [Syntax](#syntax)
 - [Selectors](#selectors)
   - [1 - Selector Element](#1---selector-element)
   - [2 - Selector ID](#2---selector-id)
@@ -87,17 +84,7 @@
 8. **Mengikuti Praktik Terbaik**
    - Menulis kode CSS yang bersih, terstruktur, dan sesuai dengan standar industri, meningkatkan kolaborasi dalam proyek pengembangan web.
 
-# Tentang Modul
-
-Dengan bekal dari modul ini diharapkan teman - teman semuanya memahami dasar - dasar CSS itu sendiri dalam pengembangan sebuah aplikasi berbasis website.
-
-Modul ini tidak akan membahas semua fitur - fitur yang ada pada CSS, tapi jangan khawatir karena yang dibahas pada modul ini adalah fitur - fitur yang sering digunakan pada pembuatan aplikasi berbasis website.
-
-Apa saja yang akan kita bahas didalam modul ini ? berikut ini daftar lengkapnya.
-
-# Pengenalan CSS
-
-## Apa itu Css ?
+# Apa itu CSS ?
 
 CSS adalah singkatan dari cascading *style sheets*, yaitu bahasa yang digunakan untuk menentukan tampilan dan format halaman website. Dengan CSS, Anda bisa mengatur jenis font, warna tulisan, dan latar belakang halaman.
 
@@ -107,11 +94,11 @@ CSS juga berguna untuk mengatasi keterbatasan HTML dalam mengatur format halaman
 
 Apabila hanya menggunakan HTML ketika membangun website dengan beberapa halaman, Anda harus menulis tag untuk sebuah elemen HTML di semua halaman tersebut.
 
-Dengan adanya CSS, Anda cukup menulis kode satu kali untuk sebuah elemen HTML untuk diterapkan ke semua halaman. Nantinya, ketika akan melakukan perubahan, Anda juga cukup melakukan perubahan pada satu kode tadi. Praktis, bukan?
+Dengan adanya CSS, Anda cukup menulis kode satu kali untuk sebuah elemen HTML untuk diterapkan ke semua halaman. Nantinya, ketika akan melakukan perubahan, Anda juga cukup melakukan perubahan pada satu kode tadi. Praktis, bukan? 🔥
 
 Pun demikian, CSS sering dianggap sebagai sebuah bahasa pemrograman. Padahal, CSS lebih tepat disebut sebagai bahasa style sheet yang umumnya digunakan bersamaan dengan JavaScript
 
-# Syntax
+## Syntax
 
 CSS sendiri memiliki sebuah syntax pasti yang dimilikinya, yaitu pemilihan tag dan deklarasi , tag disini berperan sebagai sebuah element yang ingin kita tambahkan sebuah style sedangkan deklarasi merupakan style style yang kita gunakan didalam tag yang telah kita pilih. contoh :
 
