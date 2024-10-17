@@ -256,8 +256,6 @@ console.log(score);
 // Output: 70
 ```
 
-atas dasar
-
 #### Hoisting function
 
 ```javascript
