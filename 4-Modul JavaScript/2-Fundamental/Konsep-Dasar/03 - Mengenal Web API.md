@@ -18,7 +18,7 @@ sessionStorage
 // event listener
 const btn = document.getElementById('btn');
 btn.addEventListener('click', function() {
-  alert('Buku Saku JavaScript')
+  alert('Belajar JavaScript')
 });
 
 ```
