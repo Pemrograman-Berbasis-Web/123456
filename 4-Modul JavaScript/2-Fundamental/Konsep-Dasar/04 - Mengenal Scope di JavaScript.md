@@ -259,9 +259,37 @@ console.log(score);
 atas dasar
 
 #### Hoisting function
-...
+
+```javascript
+// Hoisting function
+sayHello();
+
+function sayHello() {
+  console.log('Hello!');
+}
+```
+
+Kode pertama adalah contoh `hoisting function`, di mana sebuah function `sayHello()` dipanggil sebelum deklarasinya. Dalam konsep hoisting, JavaScript akan mengangkat (hoist) deklarasi function ke bagian atas scope sebelum eksekusi kode. 
+
+Oleh karena itu, meskipun pemanggilan `sayHello()` terjadi sebelum deklarasi `function`, tidak akan terjadi error dan outputnya akan tetap mencetak `'Hello!'`.
 
 #### Hoisting class
-....
+
+Kode kedua adalah contoh `hoisting class`, di mana sebuah class `Car` diinisialisasi dengan membuat instance `myCar` sebelum deklarasi class tersebut. Sama seperti hoisting function, dalam hoisting class, deklarasi class akan diangkat ke bagian atas scope sebelum eksekusi kode. 
+
+Sehingga, meskipun instance `myCar` dibuat sebelum deklarasi class `Car`, tidak akan terjadi error dan class `Car` dapat digunakan dengan benar untuk membuat instance `myCar` dan memanggil method `displayMake()`.
+
+```javascript
+// Hoisting class
+const myCar = new Car();
+class Car {
+  constructor() {
+    this.make = 'Toyota';
+  }
+  displayMake() {
+    console.log(this.make);
+  }
+}
+```
 
 Mengingat begitu penting nya bagian ini, oleh karena itu baiknya dibaca lagi beberapa kali dan jika perlu dikombinasikan dengan sumber lainnya agar semakin faham.
