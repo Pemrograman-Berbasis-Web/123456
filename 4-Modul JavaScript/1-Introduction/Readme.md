@@ -31,9 +31,9 @@
 
 Bab ini membahas 3 point utama yang wajib kamu ketahui yaitu:
 
-- [Sejarah JavaScript](/1-Introduction/01-Sejarah%20JavaScript.md)
-- [Ekosistem JavaScript](/1-Introduction/02-Ekosistem%20JavaScript.md)
-- [Pengenalan Singkat EcmaScript](/1-Introduction/03-Mengenal%20Ecmascript%20(ES).md)
+- [Sejarah JavaScript](https://github.com/Pemrograman-Berbasis-Web/modul-pbw.github.io/blob/main/4-Modul%20JavaScript/1-Introduction/01-Sejarah%20JavaScript.md)
+- [Ekosistem JavaScript](https://github.com/Pemrograman-Berbasis-Web/modul-pbw.github.io/blob/main/4-Modul%20JavaScript/1-Introduction/02-Ekosistem%20JavaScript.md)
+- [Pengenalan Singkat EcmaScript](https://github.com/Pemrograman-Berbasis-Web/modul-pbw.github.io/blob/main/4-Modul%20JavaScript/1-Introduction/03-Mengenal%20Ecmascript%20(ES).md)
 
 ke-3 point ini sangat penting untuk kita ketahui dan kita ingat karena isi dari point-point ini sering kali menjadi topik pembicaraan dalam diskusi formal atau non-formal mengenai JavaScript. 
 
