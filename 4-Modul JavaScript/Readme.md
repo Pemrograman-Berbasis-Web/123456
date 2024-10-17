@@ -20,10 +20,11 @@ Pembahasan akan dibagi menjadi beberapa Chapter untuk memudahkan kamu belajar se
 
 ## Chapter 1
 
-- [Itroduction](/1-Introduction/Readme.md)
-- [Fundamental JavaScript](/2-Fundamental/Readme.md)
-  - [Konsep Dasar](/2-Fundamental/Konsep-Dasar/Readme.md)
-  - [Sintaks,Variable dan Tipe Data](/2-Fundamental/Konsep-Dasar/01%20-%20Sintaks-Variable%20dan%20Tipe%20Data.md)
-  - [Function](#)
-  - [OOP](#)
-- [Referensi](/Referensi.md)
+- [Itroduction](https://github.com/Pemrograman-Berbasis-Web/modul-pbw.github.io/blob/main/4-Modul%20JavaScript/1-Introduction/Readme.md)
+- [Fundamental JavaScript](https://github.com/Pemrograman-Berbasis-Web/modul-pbw.github.io/blob/main/4-Modul%20JavaScript/2-Fundamental/Readme.md)
+  - [Konsep Dasar](https://github.com/Pemrograman-Berbasis-Web/modul-pbw.github.io/blob/main/4-Modul%20JavaScript/2-Fundamental/Konsep-Dasar/Readme.md)
+  - [Sintaks,Variable dan Tipe Data](https://github.com/Pemrograman-Berbasis-Web/modul-pbw.github.io/blob/main/4-Modul%20JavaScript/2-Fundamental/01%20-%20Sintaks-Variable%20dan%20Tipe%20Data.md)
+  - [Function](https://github.com/Pemrograman-Berbasis-Web/modul-pbw.github.io/blob/main/4-Modul%20JavaScript/2-Fundamental/02%20-%20Function.md)
+  - [OOP](https://github.com/Pemrograman-Berbasis-Web/modul-pbw.github.io/blob/main/4-Modul%20JavaScript/2-Fundamental/03%20-%20OOP.md)
+- [Case Study](https://github.com/Pemrograman-Berbasis-Web/modul-pbw.github.io/blob/main/4-Modul%20JavaScript/2-Fundamental/04%20-%20Case%20Study.md)
+- [Referensi](https://github.com/Pemrograman-Berbasis-Web/modul-pbw.github.io/blob/main/4-Modul%20JavaScript/Referensi.md)
