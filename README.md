@@ -22,7 +22,7 @@
 - [Pengenalan CSS](/3-Modul%20CSS/3-Modul-CSS.md) 🔥
 
 ## 4. JavaScript
-- [Pengenalan JavaScript](#41-pengenalan-javascript)
+- [Pengenalan JavaScript](https://github.com/Pemrograman-Berbasis-Web/modul-pbw.github.io/tree/main/4-Modul%20JavaScript) 🔥
 
 ## 5. Framework dan Library
 - [Pengenalan Framework Front End](#51-pengenalan-framework-Front-End)
