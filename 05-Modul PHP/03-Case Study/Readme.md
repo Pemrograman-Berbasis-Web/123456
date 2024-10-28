@@ -46,4 +46,4 @@ Berikut ini adalah struktur direktori proyek Todo List yang akan kita buat:
 
 Anda dapat menambahkan `css/style.css` atau `js/script.js` sesuai kebutuhan untuk mempercantik tampilan atau menambahkan fungsionalitas JavaScript pada aplikasi Todo List. 
 
-> Struktur ini membantu menjaga organisasi kode dengan memisahkan logika, tampilan, dan koneksi ke database.
+Struktur ini membantu menjaga organisasi kode dengan memisahkan logika, tampilan, dan koneksi ke database.
