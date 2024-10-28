@@ -11,6 +11,6 @@ Semoga modul ini dapat menjadi salah bacaan wajib programmer PHP yang ingin meng
 # Topik Bahasaan
 
 - [Intoroduction](/01-Introduction/Readme.md)
-- [Fundamental](/02-Fundamental/Readme.md)
+- [PHP](/02-PHP/Readme.md)
 - [Case Study](/03-Case%20Study/Readme.md)
 - [Reference](/04-Reference/Readme.md)
