@@ -1,112 +1,257 @@
 <!DOCTYPE html>
 <html lang="en">
-
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Modul Praktikum Pemrograman Berbasis Web</title>
     <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+    <style>
+        /* General Styles */
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            padding: 20px;
+            background-image: url('path/to/your/background.jpg'); /* Change this to your image path */
+            background-size: cover; /* Makes the background image cover the entire page */
+            background-position: center; /* Centers the background image */
+            color: #333;
+            transition: background-color 0.3s, color 0.3s;
+        }
+
+        h1 {
+            text-align: center;
+            color: #2c3e50;
+            margin-bottom: 20px;
+        }
+
+        h2 {
+            color: #2980b9;
+            border-bottom: 2px solid #2980b9;
+            padding-bottom: 10px;
+            margin-top: 40px;
+        }
+
+        h3 {
+            color: #34495e;
+            margin-top: 20px;
+            cursor: pointer;
+            transition: color 0.3s;
+        }
+
+        h3:hover {
+            color: #3498db;
+        }
+
+        /* List Styles */
+        ul {
+            list-style-type: none;
+            padding: 0;
+        }
+
+        li {
+            background: rgba(236, 240, 241, 0.8); /* Semi-transparent background for list items */
+            margin: 10px 0;
+            padding: 10px;
+            border-radius: 5px;
+            transition: background-color 0.3s;
+        }
+
+        li:hover {
+            background: rgba(189, 195, 199, 0.8);
+        }
+
+        /* Link Styles */
+        a {
+            text-decoration: none;
+            color: #2980b9;
+            font-weight: bold;
+        }
+
+        a:hover {
+            color: #e74c3c;
+        }
+
+        /* Expandable Section */
+        .collapse {
+            display: none;
+            margin-left: 20px;
+        }
+
+        /* Dark Mode */
+        body.dark-mode {
+            background-color: #333;
+            color: #f4f4f4;
+        }
+
+        body.dark-mode a {
+            color: #3498db;
+        }
+
+        body.dark-mode li {
+            background: rgba(68, 68, 68, 0.8);
+        }
+
+        /* Button Styles */
+        #theme-toggle {
+            margin-bottom: 20px;
+            padding: 10px;
+            font-size: 16px;
+            cursor: pointer;
+            border: none;
+            background: #2980b9;
+            color: white;
+            border-radius: 5px;
+            transition: background-color 0.3s;
+        }
+
+        #theme-toggle:hover {
+            background: #3498db;
+        }
+
+        /* Footer Styles */
+        footer {
+            margin-top: 40px;
+            padding: 20px;
+            text-align: center;
+            background: rgba(41, 128, 185, 0.9);
+            color: white;
+            border-radius: 5px;
+        }
+
+        /* Responsive Design */
+        @media (max-width: 600px) {
+            body {
+                padding: 10px;
+            }
+
+            h1 {
+                font-size: 1.5em;
+            }
+
+            h2, h3 {
+                font-size: 1.2em;
+            }
+
+            li {
+                padding: 8px;
+            }
+        }
+    </style>
 </head>
-
 <body>
-    <header>
-        <h1>Modul Praktikum Pemrograman Berbasis Web</h1>
-    </header>
+    <h1>Modul Praktikum Pemrograman Berbasis Web</h1>
 
-    <nav>
-        <h2>Daftar Isi</h2>
+    <button id="theme-toggle">
+        <i id="theme-icon" class="fas fa-sun"></i> Toggle Dark Mode
+    </button>
+
+    <h2>Daftar Isi</h2>
+
+    <h3 onclick="toggleSection('tools')">1. Tools Pendukung</h3>
+    <div id="tools" class="collapse">
         <ul>
-            <li><a href="#tools-pendukung">Tools Pendukung</a></li>
-            <li><a href="#html">HTML (HyperText Markup Language)</a></li>
-            <li><a href="#css">CSS (Cascading Style Sheets)</a></li>
-            <li><a href="#javascript">JavaScript</a></li>
-            <li><a href="#framework-library">Framework dan Library</a></li>
-            <li><a href="#backend-development">Backend Development</a></li>
-            <li><a href="#studi-kasus-proyek">Studi Kasus dan Proyek</a></li>
-            <li><a href="#sumber-daya-tambahan">Sumber Daya Tambahan</a></li>
+            <li><a href="#71-version-control-dengan-git">Version Control dengan Git</a></li>
+            <li><a href="https://git-scm.com/downloads">Git</a></li>
+            <li><a href="https://www.apachefriends.org/">Development Tools</a></li>
+            <li><a href="https://www.apachefriends.org/">Xampp</a></li>
+            <li><a href="https://laragon.org/download/">Laragon</a></li>
+            <li><a href="#73-deployment">Deployment</a></li>
+            <li><a href="https://www.netlify.com/">Netlify</a></li>
+            <li><a href="https://id.000webhost.com/">000webhost</a></li>
+            <li><a href="https://vercel.com/">Vercel</a></li>
+            <li><a href="#code-editor">Code Editor</a></li>
+            <li><a href="https://code.visualstudio.com/download">Visual Studio Code</a></li>
         </ul>
-    </nav>
+    </div>
 
-    <section id="tools-pendukung">
-        <h3>1. Tools Pendukung</h3>
+    <h3 onclick="toggleSection('git')">2. Git</h3>
+    <div id="git" class="collapse">
         <ul>
-            <li><a href="#version-control-dengan-git">Version Control dengan Git</a>
-                <ul>
-                    <li><a href="https://git-scm.com/downloads">Git</a></li>
-                </ul>
-            </li>
-            <li><a href="https://www.apachefriends.org/">Development Tools</a>
-                <ul>
-                    <li><a href="https://www.apachefriends.org/">Xampp</a></li>
-                    <li><a href="https://laragon.org/download/">Laragon</a></li>
-                </ul>
-            </li>
-            <li><a href="#deployment">Deployment</a>
-                <ul>
-                    <li><a href="https://www.netlify.com/">Netlify</a></li>
-                    <li><a href="https://id.000webhost.com/">000webhost</a></li>
-                    <li><a href="https://vercel.com/">Vercel</a></li>
-                </ul>
-            </li>
-            <li><a href="#code-editor">Code Editor</a>
-                <ul>
-                    <li><a href="https://code.visualstudio.com/download">Visual Studio Code</a></li>
-                </ul>
-            </li>
+            <li><a href="https://github.com/SI4019/Panduan-Praktikum-SI4019/tree/main/1-Panduan-GIT">Pengenalan Git</a></li>
         </ul>
-    </section>
+    </div>
 
-    <section id="html">
-        <h3>2. HTML (HyperText Markup Language)</h3>
+    <h3 onclick="toggleSection('html')">3. HTML (HyperText Markup Language)</h3>
+    <div id="html" class="collapse">
         <ul>
-            <li><a href="https://github.com/Pemrograman-Berbasis-Web/modul-pbw.github.io/blob/main/2-HTML/modul-html.md">Pengenalan HTML</a> 🔥</li>
+            <li><a href="https://github.com/Pemrograman-Berbasis-Web/modul-pbw.github.io/blob/main/2-Modul%20HTML/modul-html.md">Pengenalan HTML</a> 🔥</li>
         </ul>
-    </section>
+    </div>
 
-    <section id="css">
-        <h3>3. CSS (Cascading Style Sheets)</h3>
+    <h3 onclick="toggleSection('css')">4. CSS (Cascading Style Sheets)</h3>
+    <div id="css" class="collapse">
         <ul>
-            <li><a href="#pengenalan-css">Pengenalan CSS</a></li>
+            <li><a href="/3-Modul%20CSS/3-Modul-CSS.md">Pengenalan CSS</a> 🔥</li>
         </ul>
-    </section>
+    </div>
 
-    <section id="javascript">
-        <h3>4. JavaScript</h3>
+    <h3 onclick="toggleSection('javascript')">5. JavaScript</h3>
+    <div id="javascript" class="collapse">
         <ul>
-            <li><a href="#pengenalan-javascript">Pengenalan JavaScript</a></li>
+            <li><a href="https://github.com/Pemrograman-Berbasis-Web/modul-pbw.github.io/tree/main/4-Modul%20JavaScript">Pengenalan JavaScript</a> 🔥</li>
         </ul>
-    </section>
+    </div>
 
-    <section id="framework-library">
-        <h3>5. Framework dan Library</h3>
+    <h3 onclick="toggleSection('backend')">6. <em>Back-End</em> Development</h3>
+    <div id="backend" class="collapse">
         <ul>
-            <li><a href="#pengenalan-framework-dan-library">Pengenalan Framework dan Library</a></li>
+            <li><a href="#61-pengenalan-backend">Pengenalan <em>Back-End</em></a></li>
+            <li><a href="#">PHP</a></li>
         </ul>
-    </section>
+    </div>
 
-    <section id="backend-development">
-        <h3>6. Backend Development</h3>
+    <h3 onclick="toggleSection('frontend')">7. <em>Front-End</em> Framework</h3>
+    <div id="frontend" class="collapse">
         <ul>
-            <li><a href="#pengenalan-backend">Pengenalan Backend</a></li>
+            <li><a href="#51-pengenalan-framework-Front-End">Pengenalan Framework <em>Front-End</em></a></li>
         </ul>
-    </section>
+    </div>
 
-    <section id="studi-kasus-proyek">
-        <h3>7. Studi Kasus dan Proyek</h3>
+    <h3 onclick="toggleSection('projek')">8. Studi Kasus dan Proyek</h3>
+    <div id="projek" class="collapse">
         <ul>
-            <li><a href="#studi-kasus">Studi Kasus</a></li>
-            <li><a href="#proyek-akhir">Proyek Akhir</a></li>
+            <li><a href="#81-studi-kasus">Studi Kasus</a></li>
+            <li><a href="#82-proyek-akhir">Proyek Akhir</a></li>
         </ul>
-    </section>
+    </div>
 
-    <section id="sumber-daya-tambahan">
-        <h3>8. Sumber Daya Tambahan</h3>
+    <h3 onclick="toggleSection('resources')">9. Sumber Daya Tambahan</h3>
+    <div id="resources" class="collapse">
         <ul>
-            <li><a href="#buku-dan-artikel">Buku dan Artikel</a></li>
-            <li><a href="#komunitas-dan-forum">Komunitas dan Forum</a></li>
+            <li><a href="buku-dan-artikel">Buku dan Artikel</a></li>
+            <li><a href="komunitas-dan-forum">Komunitas dan Forum</a></li>
             <li><a href="https://github.com/Pemrograman-Berbasis-Web">Repsitori Github (PBW)</a></li>
         </ul>
-    </section>
-</body>
+    </div>
 
+    <footer>
+        <p>&copy; 2024 Modul Praktikum Pemrograman Berbasis Web. All rights reserved.</p>
+        <p><a href="https://github.com/Pemrograman-Berbasis-Web" style="color: white;">Visit our GitHub Repository</a></p>
+    </footer>
+
+    <script>
+        function toggleSection(sectionId) {
+            const section = document.getElementById(sectionId);
+            if (section.style.display === "block") {
+                section.style.display = "none";
+            } else {
+                section.style.display = "block";
+            }
+        }
+
+        document.getElementById('theme-toggle').addEventListener('click', () => {
+            document.body.classList.toggle('dark-mode');
+            const themeIcon = document.getElementById('theme-icon');
+            if (document.body.classList.contains('dark-mode')) {
+                themeIcon.classList.remove('fa-sun');
+                themeIcon.classList.add('fa-moon');
+            } else {
+                themeIcon.classList.remove('fa-moon');
+                themeIcon.classList.add('fa-sun');
+            }
+        });
+    </script>
+</body>
 </html>

@@ -14,7 +14,11 @@
     - [Vercel](https://vercel.com/)
 - [Code Editor](#code-editor)
     - [Visual Studio Code](https://code.visualstudio.com/download)
-  
+
+
+## 1. Git
+- [Pengenalan Git](https://github.com/SI4019/Panduan-Praktikum-SI4019/tree/main/1-Panduan-GIT)
+
 ## 2. HTML (HyperText Markup Language)
 - [Pengenalan HTML](https://github.com/Pemrograman-Berbasis-Web/modul-pbw.github.io/blob/main/2-Modul%20HTML/modul-html.md) 🔥
 
