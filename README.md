@@ -24,11 +24,13 @@
 ## 4. JavaScript
 - [Pengenalan JavaScript](https://github.com/Pemrograman-Berbasis-Web/modul-pbw.github.io/tree/main/4-Modul%20JavaScript) 🔥
 
-## 5. Backend Development
-- [Pengenalan Backend](#61-pengenalan-backend)
+## 5. _Back-End_ Development
+- [Pengenalan _Back-End_](#61-pengenalan-backend)
   
-## 6. Framework dan Library
-- [Pengenalan Framework Front End](#51-pengenalan-framework-Front-End)
+  - [PHP](#)
+
+## 6. _Front-End_ Framework
+- [Pengenalan Framework _Front-End_](#51-pengenalan-framework-Front-End)
 
 ## 7. Studi Kasus dan Proyek
 - [Studi Kasus](#81-studi-kasus)
