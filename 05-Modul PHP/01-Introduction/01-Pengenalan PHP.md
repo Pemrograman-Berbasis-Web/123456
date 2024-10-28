@@ -4,8 +4,9 @@
 
 Pada zaman dulu.. Web itu statis, cuma dibuat dengan HTML dan sedikit sentuhan CSS. Waktu itu memang teknologi web masih belum secanggih sekarang. Jadi saat orang membuka web, mereka sebenarnya cuma membuka file HTML dari web server.
 
-![Statis](https://www.petanikode.com/img/php-konsep/web-statis.avif)
-*source* : petanikode.com
+![Statis](https://www.petanikode.com/img/php-konsep/web-statis.avif) 
+
+*Source* : [petanikode](petanikode.com)
 
 Masalah waktu itu:
 
@@ -103,4 +104,5 @@ Pada akhirnya kita lebih senang melihat dokumentasi resmi untuk melihat bagaiman
 PHP memiliki [market share]([https://](https://kinsta.com/php-market-share/)) yang sangat tinggi. Pengaruh PHP pada pengembangan web tidak dapat disangkal. PHP telah menjadi teknologi utama selama lebih dari dua dekade, mendukung segala hal mulai dari blog sederhana hingga aplikasi perusahaan yang kompleks. 
 
 ![alt text](https://i.imgur.com/ZtOhsWN.png)
+
 *Source*: [orientsoftware](https://www.orientsoftware.com/blog/most-popular-programming-languages/)
