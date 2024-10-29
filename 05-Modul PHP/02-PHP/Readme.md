@@ -16,4 +16,26 @@ Semoga modul ini dapat menjadi salah bacaan wajib programmer PHP yang ingin meng
 - [visibility](https://github.com/Pemrograman-Berbasis-Web/modul-pbw.github.io/blob/main/05-Modul%20PHP/02-PHP/06-Visibilitas.md)
 - [Konsep Statis dan Konstanta](https://github.com/Pemrograman-Berbasis-Web/modul-pbw.github.io/blob/main/05-Modul%20PHP/02-PHP/07-Konsep%20Statis%20dan%20Konstanta.md)
 - [Keyword $this dan self](https://github.com/Pemrograman-Berbasis-Web/modul-pbw.github.io/blob/main/05-Modul%20PHP/02-PHP/08-%20Keyword%20%24this%20dan%20self.md)
+-  Return Value
+-  Constructor dan Destructor
+-  Enkapsulasi
+-  Pewarisan
+-  Overloading dan Overriding
+-  Abstract Class dan Abstract Method
+-  Interface
+-  Method Chaining
+-  Pengelompokan Berkas
+-  Parameter Casting dan Return Type Declaration
+-  Recursive Function
+-  Late Static Bindings
+-  Trait
+-  Coding Standard
+-  Exception Handling
+-  Anonymous Function dan Anonymous Class
+-  Cara Membuat Variadic Function
+-  Instansiasi pada Konteks Statis
+-  Magic Method pada PHP
+-  Final Class dan Final Method
+-  Object sebagai Array
+-  Design Pattern
 
