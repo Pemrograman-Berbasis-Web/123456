@@ -29,8 +29,6 @@
 - [Pengenalan JavaScript](https://github.com/Pemrograman-Berbasis-Web/modul-pbw.github.io/tree/main/4-Modul%20JavaScript) 🔥
 
 ## 5. _Back-End_ Development
-- [Pengenalan _Back-End_](#61-pengenalan-backend)
-  
   - [PHP](#)
 
 ## 6. _Front-End_ Framework
