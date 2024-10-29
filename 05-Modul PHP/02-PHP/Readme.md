@@ -15,5 +15,5 @@ Semoga modul ini dapat menjadi salah bacaan wajib programmer PHP yang ingin meng
 - [property dan method](https://github.com/Pemrograman-Berbasis-Web/modul-pbw.github.io/blob/main/05-Modul%20PHP/02-PHP/05-Property%20dan%20Method.md)
 - [visibility](https://github.com/Pemrograman-Berbasis-Web/modul-pbw.github.io/blob/main/05-Modul%20PHP/02-PHP/06-Visibilitas.md)
 - [Konsep Statis dan Konstanta](https://github.com/Pemrograman-Berbasis-Web/modul-pbw.github.io/blob/main/05-Modul%20PHP/02-PHP/07-Konsep%20Statis%20dan%20Konstanta.md)
-- Keyword $this dan self
+- [Keyword $this dan self](https://github.com/Pemrograman-Berbasis-Web/modul-pbw.github.io/blob/main/05-Modul%20PHP/02-PHP/08-%20Keyword%20%24this%20dan%20self.md)
 
