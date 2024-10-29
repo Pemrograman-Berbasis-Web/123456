@@ -10,12 +10,10 @@ Semoga modul ini dapat menjadi salah bacaan wajib programmer PHP yang ingin meng
 
 # Topic Bahasaan
 
-- [Pengenalan PHP](#Pengenalan-PHP)
-- [Requirement Environment PHP](#Requirement-Environment-PHP)
-- [Pengenalan PBO](#Pengenalan-PBO)
-- [Class dan Object](#Class-dan-Object)
-- [property dan method](#property-dan-method)
-- [visibility](#visibility)
-- [Konsep Statis dan Konstanta](#Konsep-Statis-dan-Konstanta)
+- [Pengenalan PBO](https://github.com/Pemrograman-Berbasis-Web/modul-pbw.github.io/blob/main/05-Modul%20PHP/02-PHP/03-Pengenalan%20Pemrograman%20Berbasis%20Objek.md)
+- [Class dan Object](https://github.com/Pemrograman-Berbasis-Web/modul-pbw.github.io/blob/main/05-Modul%20PHP/02-PHP/04-Class%20dan%20Object.md)
+- [property dan method](https://github.com/Pemrograman-Berbasis-Web/modul-pbw.github.io/blob/main/05-Modul%20PHP/02-PHP/05-Property%20dan%20Method.md)
+- [visibility](https://github.com/Pemrograman-Berbasis-Web/modul-pbw.github.io/blob/main/05-Modul%20PHP/02-PHP/06-Visibilitas.md)
+- [Konsep Statis dan Konstanta](https://github.com/Pemrograman-Berbasis-Web/modul-pbw.github.io/blob/main/05-Modul%20PHP/02-PHP/07-Konsep%20Statis%20dan%20Konstanta.md)
 - [Keyword $this dan self](#Keyword-this-dan-self)
 
