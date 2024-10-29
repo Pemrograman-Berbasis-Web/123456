@@ -10,7 +10,7 @@ Semoga modul ini dapat menjadi salah bacaan wajib programmer PHP yang ingin meng
 
 # Topik Bahasaan
 
-- [Intoroduction]([/01-Introduction/Readme.md](https://github.com/Pemrograman-Berbasis-Web/modul-pbw.github.io/blob/main/05-Modul%20PHP/01-Introduction/Readme.md))
-- [PHP]([/02-PHP/Readme.md](https://github.com/Pemrograman-Berbasis-Web/modul-pbw.github.io/blob/main/05-Modul%20PHP/02-PHP/Readme.md))
-- [Case Study]([/03-Case%20Study/Readme.md](https://github.com/Pemrograman-Berbasis-Web/modul-pbw.github.io/blob/main/05-Modul%20PHP/03-Case%20Study/Readme.md))
-- [Reference]([/04-Reference/Readme.md](https://github.com/Pemrograman-Berbasis-Web/modul-pbw.github.io/blob/main/05-Modul%20PHP/04-Reference/Readme.md))
+- [Intoroduction](https://github.com/Pemrograman-Berbasis-Web/modul-pbw.github.io/blob/main/05-Modul%20PHP/01-Introduction/Readme.md)
+- [PHP](https://github.com/Pemrograman-Berbasis-Web/modul-pbw.github.io/blob/main/05-Modul%20PHP/02-PHP/Readme.md)
+- [Case Study](https://github.com/Pemrograman-Berbasis-Web/modul-pbw.github.io/blob/main/05-Modul%20PHP/03-Case%20Study/Readme.md)
+- [Reference](https://github.com/Pemrograman-Berbasis-Web/modul-pbw.github.io/blob/main/05-Modul%20PHP/04-Reference/Readme.md)
