@@ -44,6 +44,6 @@ Berikut ini adalah struktur direktori proyek Todo List yang akan kita buat:
   - **css/style.css**: (Opsional) Berisi style CSS untuk mempercantik tampilan aplikasi.
   - **js/script.js**: (Opsional) Berisi script JavaScript untuk interaksi tambahan pada tampilan aplikasi. 
 
-Anda dapat menambahkan `css/style.css` atau `js/script.js` sesuai kebutuhan untuk mempercantik tampilan atau menambahkan fungsionalitas JavaScript pada aplikasi Todo List. 
+Anda dapat menambahkan `css/style.css` atau `js/script.js` sesuai kebutuhan untuk mempercantik tampilan atau menambahkan fungsionalitas JavaScript pada aplikasi Todo List. [_Example Template_](https://mdbootstrap.com/docs/standard/extended/to-do-list/#section-basic-example)
 
 Struktur ini membantu menjaga organisasi kode dengan memisahkan logika, tampilan, dan koneksi ke database.
