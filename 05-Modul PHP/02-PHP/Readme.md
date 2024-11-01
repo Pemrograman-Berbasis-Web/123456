@@ -16,7 +16,7 @@ Semoga modul ini dapat menjadi salah bacaan wajib programmer PHP yang ingin meng
 - [visibility](https://github.com/Pemrograman-Berbasis-Web/modul-pbw.github.io/blob/main/05-Modul%20PHP/02-PHP/06-Visibilitas.md)
 - [Konsep Statis dan Konstanta](https://github.com/Pemrograman-Berbasis-Web/modul-pbw.github.io/blob/main/05-Modul%20PHP/02-PHP/07-Konsep%20Statis%20dan%20Konstanta.md)
 - [Keyword $this dan self](https://github.com/Pemrograman-Berbasis-Web/modul-pbw.github.io/blob/main/05-Modul%20PHP/02-PHP/08-%20Keyword%20%24this%20dan%20self.md)
--  Return Value
+-  [Return Value](https://github.com/Pemrograman-Berbasis-Web/modul-pbw.github.io/blob/main/05-Modul%20PHP/02-PHP/09-Return%20Value.md)
 -  Constructor dan Destructor
 -  Enkapsulasi
 -  Pewarisan
