@@ -319,8 +319,8 @@ Output:
 Untuk menguji API secara lebih tepat, Anda sebaiknya menggunakan alat seperti [Postman](https://www.postman.com/downloads/) atau [cURL](https://terminalcheatsheet.com/id/guides/curl-rest-api) alih-alih browser karena browser default menggunakan metode `GET`, sedangkan untuk menambahkan `todo`, Anda memerlukan metode `POST`.
 
 - Panduan Install `POSTMAN` : 
-  - [Windows](h[ttps://](https://apidog-com.translate.goog/blog/download-install-postman/?_x_tr_sl=en&_x_tr_tl=id&_x_tr_hl=id&_x_tr_pto=tc&_x_tr_hist=true))
-  - [MacOs]([https://](https://apidog-com.translate.goog/blog/download-install-postman/?_x_tr_sl=en&_x_tr_tl=id&_x_tr_hl=id&_x_tr_pto=tc&_x_tr_hist=true))
+  - [Windows](https://apidog-com.translate.goog/blog/download-install-postman/?_x_tr_sl=en&_x_tr_tl=id&_x_tr_hl=id&_x_tr_pto=tc&_x_tr_hist=true)
+  - [MacOs](https://apidog-com.translate.goog/blog/download-install-postman/?_x_tr_sl=en&_x_tr_tl=id&_x_tr_hl=id&_x_tr_pto=tc&_x_tr_hist=true)
 
 - **Menggunakan Postman:**
 
@@ -350,7 +350,7 @@ Jika Anda tidak ingin menggunakan `Postman`, Anda juga bisa menggunakan `cURL` d
 Panduan install `cURL`: 
 
 - [Windows](https://kb.naverisk.com/en/articles/5569958-how-to-install-curl-in-windows)
-- [MacOs](hhttps://formulae.brew.sh/formula/curl)
+- [MacOs](https://formulae.brew.sh/formula/curl)
 
 Disini saya menggunakan `cURL` di terminal VsCode untuk melakukan pengujian API.
 
