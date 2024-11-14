@@ -1,7 +1,7 @@
-Pengennalan Rest API
+Pengenalan Rest API
 ==========================
 API _(Application Programming Interface)_ adalah sekumpulan aturan dan protokol yang memungkinkan satu aplikasi untuk berkomunikasi dengan aplikasi lainnya. API dapat digunakan untuk berbagai tujuan, termasuk mengakses data, mengintegrasikan layanan, dan mengotomatisasi proses.
-- [Pengennalan Rest API](#pengennalan-rest-api)
+- [Pengenalan Rest API](#pengenalan-rest-api)
   - [Rest API Cheatsheet](#rest-api-cheatsheet)
 - [Apa itu REST?](#apa-itu-rest)
   - [Karakteristik REST](#karakteristik-rest)
@@ -13,7 +13,7 @@ API _(Application Programming Interface)_ adalah sekumpulan aturan dan protokol 
 
 ## Rest API Cheatsheet
 
-![rest-api](https://substackcdn.com/image/fetch/w_1456,c_limit,f_webp,q_auto:good,fl_lossy/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff870b253-d5f5-43bf-a6ab-667ee8ed6f8b_1280x1664.gif)
+![rest-api](https://substack-post-media.s3.amazonaws.com/public/images/f870b253-d5f5-43bf-a6ab-667ee8ed6f8b_1280x1664.gif)
 _Source_: [ByteByteGo](https://blog.bytebytego.com/p/ep94-rest-api-cheatsheet?utm_source=publication-search)
 
 # Apa itu REST?

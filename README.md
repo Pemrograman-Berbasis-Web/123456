@@ -31,14 +31,17 @@
 ## 5. _Back-End_ Development
   - [PHP](https://github.com/Pemrograman-Berbasis-Web/modul-pbw.github.io/tree/main/05-Modul%20PHP) 🔥
 
-## 6. _Front-End_ Framework
+## 6. _REST API_
+- [Pengenalan REST API](https://github.com/Pemrograman-Berbasis-Web/modul-pbw.github.io/tree/main/06-Rest%20API) 🔥
+
+## 7. _Front-End_ Framework
 - [Pengenalan Framework _Front-End_](#51-pengenalan-framework-Front-End)
 
-## 7. Studi Kasus dan Proyek
+## 8. Studi Kasus dan Proyek
 - [Studi Kasus](#81-studi-kasus)
 - [Proyek Akhir](#82-proyek-akhir)
 
-## 8. Sumber Daya Tambahan
+## 9. Sumber Daya Tambahan
 - [Buku dan Artikel](buku-dan-artikel)
 - [Komunitas dan Forum](komunitas-dan-forum)
 - [Repsitori Github (PBW)](https://github.com/Pemrograman-Berbasis-Web)
