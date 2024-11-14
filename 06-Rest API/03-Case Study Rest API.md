@@ -406,7 +406,7 @@ Perintah `curl` ini digunakan untuk mengirim permintaan `POST` ke server lokal A
 
 Selanjutnya , silahkan anda boleh menggunakan `Postman` dan `cURL` untuk menguji API.
 
-pada perintah berikut:
+HTTP Methods berikut:
 
 - `GET api.php?action=list` - Mendapatkan semua todo
 - `POST api.php?action=add` - Menambahkan todo baru
