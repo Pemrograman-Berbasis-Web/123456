@@ -3,7 +3,9 @@ Referensi
 
 1. [Bytebytego:](https://blog.bytebytego.com/p/ep91-rest-api-authentication-methods)
 2. [Diagramingai:](https://diagrammingai.com)
-3. Tutorial:
+3. [Restfulapi](https://restfulapi.net)
+4. [Ibm.com](https://www.ibm.com/topics/rest-apis)
+5. Tutorial:
    - [Learning Postman:](https://learning.postman.com/docs/getting-started/installation/install-overview/)
    - [Guides cURL Rest API:](https://terminalcheatsheet.com/id/guides/curl-rest-api)
    - Instalasi cURL:

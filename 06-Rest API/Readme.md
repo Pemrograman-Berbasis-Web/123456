@@ -11,7 +11,7 @@ Semoga modul ini dapat menjadi salah satu referensi utama bagi programmer PHP ya
 
 # Topik Bahasaan
 
-- [Pengenalan Rest API](#pengenalan-rest-api)
-- [Contoh Rest API](#contoh-rest-api)
-- [Case Study](#case-study)
-- [Reference](#referensi)
+- [Pengenalan Rest API](https://github.com/Pemrograman-Berbasis-Web/modul-pbw.github.io/blob/main/06-Rest%20API/01-Pengenalan%20Rest%20API.md)
+- [Contoh Rest API](https://github.com/Pemrograman-Berbasis-Web/modul-pbw.github.io/blob/main/06-Rest%20API/02-Contoh%20REST%20API.md)
+- [Case Study]([#case-study](https://github.com/Pemrograman-Berbasis-Web/modul-pbw.github.io/blob/main/06-Rest%20API/03-Case%20Study%20Rest%20API.md))
+- [Reference]([#referensi](https://github.com/Pemrograman-Berbasis-Web/modul-pbw.github.io/blob/main/06-Rest%20API/04-Referensi.md))
