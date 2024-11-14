@@ -14,6 +14,8 @@
     - [Vercel](https://vercel.com/)
 - [Code Editor](#code-editor)
     - [Visual Studio Code](https://code.visualstudio.com/download)
+- API Testing Tools (_SOAP and REST API Test Tools_)
+  - [Postman](https://www.postman.com)
 
 
 ## 1. Git
