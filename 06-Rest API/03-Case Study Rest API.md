@@ -404,7 +404,7 @@ Perintah `curl` ini digunakan untuk mengirim permintaan `POST` ke server lokal A
 
 # Eksplorasi REST API
 
-Selanjutnya , silahkan anda boleh menggunakan `Postman` dan `cURL` untuk menguji API.
+Selanjutnya , silahkan anda boleh menggunakan `Postman` dan `cURL` untuk menguji API pada
 
 HTTP Methods berikut:
 
