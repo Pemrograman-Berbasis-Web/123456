@@ -37,7 +37,7 @@
 - [Pengenalan REST API](https://github.com/Pemrograman-Berbasis-Web/modul-pbw.github.io/tree/main/06-Rest%20API) 🔥
 
 ## 7. _Front-End_ Framework
-- [Pengenalan Framework _Front-End_](#51-pengenalan-framework-Front-End)
+- [Pengenalan Framework _Front-End_](https://github.com/Pemrograman-Berbasis-Web/modul-pbw.github.io/tree/main/07-Framework) 🔥🔥🔥
 
 ## 8. Studi Kasus dan Proyek
 - [Studi Kasus](#81-studi-kasus)
