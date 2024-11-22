@@ -19,9 +19,9 @@ Dengan memahami dan menerapkan konsep-konsep ini, Anda dapat mengembangkan aplik
 
 # Topik Bahasaan
 
-- [Pengenalan Laravel](#pengenalan-dasar-laravel)
-- [Pengenalan Vue](#pengenalan-dasar-vue)
-- [Pengenalan Inertia](#pengenalan-dasar-inertia)
-- [Pengenalan Breezee](#pengenalan-dasar-breezee)
-- [Case Study](#case-study)
-- [Testing](#testing)
+- [Pengenalan Laravel](https://github.com/Pemrograman-Berbasis-Web/modul-pbw.github.io/blob/main/07-Framework/01-Pengenalan%20Dasar%20Laravel.md)
+- [Pengenalan Vue](https://github.com/Pemrograman-Berbasis-Web/modul-pbw.github.io/blob/main/07-Framework/02-Pengenalan%20Dasar%20Vue.md)
+- [Pengenalan Inertia](https://github.com/Pemrograman-Berbasis-Web/modul-pbw.github.io/blob/main/07-Framework/03-Pengenalan%20Dasar%20Inertia.md)
+- [Pengenalan Breezee](https://github.com/Pemrograman-Berbasis-Web/modul-pbw.github.io/blob/main/07-Framework/04-Pengenalan%20Laravel%20Breeze.md)
+- [Case Study](https://github.com/Pemrograman-Berbasis-Web/modul-pbw.github.io/blob/main/07-Framework/05-Case%20Study.md)
+- [Testing](https://github.com/Pemrograman-Berbasis-Web/modul-pbw.github.io/blob/main/07-Framework/06-Testing.md)
