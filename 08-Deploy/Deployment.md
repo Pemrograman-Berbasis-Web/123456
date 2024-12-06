@@ -7,4 +7,3 @@ Ada beberapa pilihan untuk penyedia layanan website hosting secara gratis.
 - https://googiehost.com/id/
 - [Heroku](https://devcenter.heroku.com/articles/getting-started-with-laravel)
 - 000webhost by Hostinger
-- 
