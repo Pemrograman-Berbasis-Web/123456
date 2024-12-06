@@ -41,7 +41,7 @@
 
 ## 8. Studi Kasus dan Proyek
 - [Studi Kasus](#81-studi-kasus)
-- [Proyek Akhir](#82-proyek-akhir)
+- [Proyek Akhir (UAS)](https://github.com/Pemrograman-Berbasis-Web/modul-pbw.github.io/blob/main/09-UAS/ProjectUAS.md) 🔥🔥🔥🔥🔥🔥🔥🔥🔥
 
 ## 9. Sumber Daya Tambahan
 - [Buku dan Artikel](buku-dan-artikel)
